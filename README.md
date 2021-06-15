@@ -52,7 +52,7 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
 - Julia Araújo, roteiro
 - Murillo Silva, programação
 
-**Aprendizados Aplicado ao Projeto**
+**Aprendizados Adquiridos e Aplicado ao Projeto**
 - Lógica de programação básica
 - Linguagem HTML5 básica
 - Linguage JavaScript (intermediária)
@@ -80,7 +80,7 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
 - Murillo Silva, programação, roteiro, música e efeitos sonôros
 - Rafael Ferreira, arte
 
-**Aprendizados Aplicado ao Projeto**
+**Aprendizados Adquiridos e Aplicado ao Projeto**
 - Linguagem Python
 - Biblioteca Pygame
 - Introdução a redes de computadores
@@ -108,7 +108,7 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
 - Rafael Silva, arte
 - Renon Wilson, música e efeitos sonôros
 
-**Aprendizados Aplicado ao Projeto**
+**Aprendizados Adquiridos e Aplicado ao Projeto**
 - Linguagem Java
 - Programação Orientada a Objetos
 - Biblioteca LibGDX
@@ -118,11 +118,17 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
 - Introdução a programação com processamento paralelo
 
 
-### Abismo (2021 - Em desenvolvimento)
+### Abismo (2021)
 
-  **Abismo** é um jogo de plataforma 2D que está sendo desenvolvido para o **Sistema Máximizado de Avaliação Unificada em Games (SMAUG)** do primeiro semetre de 2021, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, para a conclusão do semestre acadêmico.
+  **Abismo** é um jogo de plataforma 2D desenvolvido para o **Sistema Máximizado de Avaliação Unificada em Games (SMAUG)** do primeiro semetre de 2021, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, para a conclusão do semestre acadêmico.
   
-  Está sendo criado utilizando a linguagem **C#** na game engine **Unity**. Enquanto suas etapas, documentadas num arquivo de **GDD** solicitado na disciplina de **Engenharia de Software II**, sobre requisitos de usuário e de sistema e princípios qualidade de software.
+  Nesse projeto, atuel principalmente como progrador, desenvolvendo-o utilizando da linguagem **C#** e a game engine **Unity**. Todo o processo de levantamento de requisitos ao plano de testes e qualidade de software, conforme solicitado na disciplina de **Engenharia de Software II**, foi documentado num arquivo de **GDD**. Também atuei no desenvolvimento do roteiro do jogo.
+  
+   A história do jogo foi baseada nas obras de **H.P Lovecraft**, em especial **O Chamado de Cthulhu**, na franquia **Bioshock,de 2007**, no jogo **Green Hell, de 2018**, e no filme **Ameaça Profunda, de 2020**. Conta sobre um biologo marinho, chamado John Smith, que junto de uma equipe de pesquisadores, viajou até a Fossa das Marianas para estudar o impacto da poluíção ambiental nas áreas abissais. Entretanto, devido a uma presença antiga e maligna do fundo do mar, John acabou separando-se dos demais, tendo de enfrentar a própria culpa e insanidade.
+   
+  A fonte utilizada foi baixada gratuitamento do site [Dafont](https://www.dafont.com/pt/).
+  
+  Código fonte e mais informações disponíveis [aqui](https://github.com/MurilloFagundesAS/SMAUG-2020-2).
   
  **Grupo**
 - Daniel Leal,arte
@@ -131,8 +137,8 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
 - Rafael Silva, programação
 - Renon Wilson, música e efeitos sonôros
 
-**Aprendizados Aplicado ao Projeto**
+**Aprendizados Adquiridos e Aplicado ao Projeto**
 - Linguagem C#
-- Básico de Unity (desenvolvimento 2D)
-- Introdução a criação de jogos com Unity
+- Introdução a Unity e desenvolvimento 2D
+- Introdução a roterização para jogos
 - Aprofundamento em documentação de Engenharia de Software
