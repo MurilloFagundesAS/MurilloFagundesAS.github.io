@@ -33,7 +33,7 @@
 
 ### Blood Runner (2019)
 
-![BloodRunner](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/master/Imagens/BloodRunner.png "Blood Runner (2019)")
+![BloodRunner](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/BloodRunner.png "Blood Runner (2019)")
 
   <P><B>Blood Runner</B> é um jogo de infinity runner 2D desenvolvido para o <B>Sistema Máximizado de Avaliação Unificada em Games (SMAUG)</B> no segundo semetre de 2019, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, para a conclusão do semestre acadêmico.</P>
   
@@ -64,7 +64,7 @@
 
 ### Caçada ao Uirapuru (2020)
 
-![Uirapuru](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/master/Imagens/Uirapuru.jpg "Caçada ao Uirapuru (2020)")
+![Uirapuru](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/Uirapuru.jpg "Caçada ao Uirapuru (2020)")
 
   <P><B>Caçada ao Uirapuru</B> é um jogo de plataforma 2D desenvolvido para o <B>Sistema Máximizado de Avaliação Unificada em Games (SMAUG)</B> no primeiro semetre de 2020, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, para a conclusão do semestre acadêmico.</P>
   
@@ -89,7 +89,7 @@
 
 ### CyberJet (2020)
 
-![CyberJet](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/master/Imagens/CyberJet.jpg "CyberJet (2020)")
+![CyberJet](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/CyberJet.jpg "CyberJet (2020)")
 
   <P><B>CyberJet</B> é um jogo de infinity runner 2D com elementos de shoot'em up desenvolvido para o <B>Sistema Máximizado de Avaliação Unificada em Games (SMAUG)</B> no segundo semetre de 2020, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, para a conclusão do semestre acadêmico.</P>
   
