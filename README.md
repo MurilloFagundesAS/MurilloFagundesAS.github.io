@@ -128,7 +128,7 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
    
   A fonte utilizada foi baixada gratuitamento do site [Dafont](https://www.dafont.com/pt/).
   
-  Código fonte e mais informações disponíveis [aqui](https://github.com/MurilloFagundesAS/SMAUG-2020-2).
+  Código fonte e mais informações disponíveis [aqui](https://github.com/MurilloFagundesAS/SMAUG-2021-1).
   
  **Grupo**
 - Daniel Leal,arte
