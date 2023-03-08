@@ -155,9 +155,9 @@ Formado em **Jogos Digitais** na **FATEC de Carapicuíba** em busca de oportunid
  
  ![SchoolPartyCalculando](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/School%20Party%20Minigame%20Calculando.PNG "School Party (2022) - Minigame Calculando")
 
- **School Party** é um jogo educativo multijogador 2D desenvolvido como Trabalho de Conclusão de Curso do curso de Jogos Digitais da FATEC de Carapicuíba. Consiste num conjunto de minigames temáticos, objetivando reforçar conteúdos vistos pelos alunos do Fundamental II da 6ª a 9ª série), na faixa etária dos 11 aos 14/15 anos (aproximados). Fora inspirado em softwares educacionais e em games como Fall Guys: Ultimate Knockout, Among Us e Suspects: Mansão Mistério.
+ **School Party** é um jogo educativo multijogador 2D mobile desenvolvido como Trabalho de Conclusão de Curso do curso de Jogos Digitais da FATEC de Carapicuíba. Consiste num conjunto de minigames temáticos, objetivando reforçar conteúdos vistos pelos alunos do Fundamental II da 6ª a 9ª série), na faixa etária dos 11 aos 14/15 anos (aproximados). Fora inspirado em softwares educacionais e em games como Fall Guys: Ultimate Knockout, Among Us e Suspects: Mansão Mistério.
  
-  Nesse projeto, atuei como programador e um dos game designers responsáveis. Todo o jogo fora desenvolvido usando a linguagem **C#** e a game engine **Unity**. Com seu desenvolvimento sendo documentado num arquivo **GDD**. Foram adicionados ao projeto um Banco de Dados SQLite. Apesar disso, algumas propostas acabaram não sendo implementadas na versão final, em especial devido ao curto prazo de produção do jogo, como ocorreu com a possibilidade de multijogadores, embora tenha sido parcialmente desenvolvida usando Photon 2.
+  Nesse projeto, atuei como programador e um dos game designers responsáveis. Todo o jogo fora desenvolvido usando a linguagem **C#** e a game engine **Unity**. Com seu desenvolvimento sendo documentado num arquivo **GDD**. Foram adicionados ao projeto um Banco de Dados SQLite e feito versão tanto para PC do jogo quanto mobile. Apesar disso, algumas propostas acabaram não sendo implementadas na versão final, em especial devido ao curto prazo de produção do jogo, como ocorreu com a possibilidade de multijogadores, embora tenha sido parcialmente desenvolvida usando Photon 2.
   
    **Grupo**
 - Daniel Leal,arte e game desiger
@@ -170,4 +170,10 @@ Formado em **Jogos Digitais** na **FATEC de Carapicuíba** em busca de oportunid
 - Aprofundado Linguagem C# e desenvolvimento com Unity
 - Photon 2 (não aplicado)
 - Implementação de Banco de Dados SQLite
+- Desenvolvimento Mobile
 - Aprofundado documentação de Engenharia de Software
+
+### Fallen Realm (2022 - Desenvolvimento)
+
+ **Fallen Realm** será um rogue-like 2D de ação mobile. O projeto fora inspirado em obras como os contos de H.P. Lovecraft, a franquia Souls e Soul Knight. Atualmente, encontra-se em desenvolvimento.
+ A história do jogo narra os infortúnios ocorridos com o Caça-Magia, um feiticeiro com amnésia que desperta perdido no antigo "Reino Caído", uma civilização medievalesca outrora prospera, mas que caiu na miséria e loucura. Agora o protagonista deve encontrar e derrotar os "Lordes", governantes anteriores, a fim de encerrar a maldição que acomete o lugar e, agora, o próprio Caça-Magia.
