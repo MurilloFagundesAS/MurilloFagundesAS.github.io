@@ -1,6 +1,6 @@
 # Murillo Fagundes
 
-Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeiras oportunidades no desenvolvimento de jogos (físicos ou virtuais) e no setor de Tecnologia da Informação e Computação, como desenvolvedor de softwares. Jovem proativo, comunicativo e dedicado, com 1 ano e meio de experiência na área.
+Formado em **Jogos Digitais** na **FATEC de Carapicuíba** em busca de oportunidades e crescimento no desenvolvimento de jogos e de softwares. Jovem proativo, comunicativo e dedicado, com 2 anos e meio de experiência na área.
 
 
 
@@ -12,7 +12,7 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
 
 
 ## Formação
-- Cursando Superior Tecnológico na FATEC de Carapicuíba
+- Superior Tecnológico na FATEC de Carapicuíba
 - Técnico em Administração (Conclusão 2020)
 - Técnico em Mecatrônica (Conclusão 2018)
 
@@ -25,7 +25,7 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
 - Sistemas operacionais: Windows intermediário e Linux básico
 - Web Designer: HTML5, CSS e Javascript intermediários
 - Programação: Python, Java e C # intermediários, C e C ++ básicos
-- Unity 2D básico
+- Unity intermediário
 
 
 
@@ -125,7 +125,7 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
 
   **Abismo** é um jogo de plataforma 2D desenvolvido para o **Sistema Máximizado de Avaliação Unificada em Games (SMAUG)** do primeiro semetre de 2021, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, para a conclusão do semestre acadêmico.
   
-  Nesse projeto, atuel principalmente como progrador, desenvolvendo-o utilizando da linguagem **C#** e a game engine **Unity**. Todo o processo de levantamento de requisitos ao plano de testes e qualidade de software, conforme solicitado na disciplina de **Engenharia de Software II**, foi documentado num arquivo de **GDD**. Também atuei no desenvolvimento do roteiro do jogo.
+  Nesse projeto, atuei principalmente como progrador, desenvolvendo-o utilizando da linguagem **C#** e a game engine **Unity**. Todo o processo de levantamento de requisitos ao plano de testes e qualidade de software, conforme solicitado na disciplina de **Engenharia de Software II**, foi documentado num arquivo de **GDD**. Também atuei no desenvolvimento do roteiro do jogo.
   
    A história do jogo foi baseada nas obras de **H.P Lovecraft**, em especial **O Chamado de Cthulhu**, na franquia **Bioshock,de 2007**, no jogo **Green Hell, de 2018**, e no filme **Ameaça Profunda, de 2020**. Seu estilo artistico foi inspirado nos jogos **Oscura, de 2011** e **Limbo, de 2010**. Conta sobre um biologo marinho, chamado John Smith, que junto de uma equipe de pesquisadores, viajou até a Fossa das Marianas para estudar o impacto da poluíção ambiental nas áreas abissais. Entretanto, devido a uma presença antiga e maligna do fundo do mar, John acabou separando-se dos demais, tendo de enfrentar a própria culpa e insanidade.
    
@@ -133,7 +133,7 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
   
   Código fonte e mais informações disponíveis [aqui](https://github.com/MurilloFagundesAS/SMAUG-2021-1).
   
- **Grupo**
+**Grupo**
 - Daniel Leal,arte
 - Murillo Fagundes, programação, roteiro e documentação
 - Rafael Ferreira, arte
@@ -145,3 +145,25 @@ Estudante de **Jogos Digitais** na **FATEC de Carapicuíba** em busca de primeir
 - Introdução a Unity e desenvolvimento 2D
 - Introdução a roterização para jogos
 - Aprofundamento em documentação de Engenharia de Software
+
+
+### School Party (2021 - 2022)
+
+ ![AbismoMenu](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/Abismo01.png "Blood Runner (2021) - Tela de Menu")
+ ![AbismoJogo](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/Abismo02.png "Blood Runner (2021) - Tela do Jogo")
+
+ **School Party** é um jogo educativo multijogador 2D desenvolvido como Trabalho de Conclusão de Curso do curso de Jogos Digitais da FATEC de Carapicuíba. Consiste num conjunto de minigames temáticos, objetivando reforçar conteúdos vistos pelos alunos do Fundamental II da 6ª a 9ª série), na faixa etária dos 11 aos 14/15 anos (aproximados). Fora inspirado em softwares educacionais e em games como Fall Guys: Ultimate Knockout, Among Us e Suspects: Mansão Mistério.
+ 
+  Nesse projeto, atuei como programador e um dos game designers responsáveis. Todo o jogo fora desenvolvido usando a linguagem **C#** e a game engine **Unity**. Com seu desenvolvimento sendo documentado num arquivo **GDD**. Algumas propostas acabaram não sendo implementadas na versão final, como a possibilidade de multijogadores, apesar de ter sido planejada e parcialmente desenvolvida, usando Photon 2.
+  
+   **Grupo**
+- Daniel Leal,arte e game desiger
+- Murillo Fagundes, programação e game desiger
+- Rafael Ferreira, arte
+- Rafael Silva, programação
+- Renon Wilson, música e efeitos sonôros
+
+**Aprendizados Adquiridos e Aplicado ao Projeto**
+- Aprofundado Linguagem C# e desenvolvimento com Unity
+- Photon 2 básico (apesar de não aplicado)
+- Aprofundado documentação de Engenharia de Software
