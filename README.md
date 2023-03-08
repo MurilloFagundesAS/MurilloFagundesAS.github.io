@@ -25,7 +25,7 @@ Formado em **Jogos Digitais** na **FATEC de Carapicuíba** em busca de oportunid
 - Sistemas operacionais: Windows intermediário e Linux básico
 - Web Designer: HTML5, CSS e Javascript intermediários
 - Programação: Python, Java e C # intermediários, C e C ++ básicos
-- Unity intermediário
+- Unity
 
 
 
