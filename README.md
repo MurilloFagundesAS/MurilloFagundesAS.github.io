@@ -183,7 +183,7 @@ Recém formado em **Jogos Digitais** pela **Faculdade de Tecnologia de Carapicu�
   ![BallWestGameplay](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/BallWest%205%20-%20Jogo.png "BallWest (2023) - Gameplay")
    ![BallWestGameOver](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/BallWest%206%20-%20Upgrades.png "BallWest (2023) - Game Over e Upgrades")
 
- **BallWest** é um jogo 2D desenvolvido para a **Caracas Game Jam 3**, jam anualmente promovida pela FATEC de Carapicuíba. Com a temática **retro**, solicitado pela jam, trata-se de game de shooter top-down, inspirado em jogos arcade e bullet well. Nele, o jogador controla um caubói obrigado a enfrentar bandidos perigosos.
+ **BallWest** é um jogo 2D desenvolvido para a **Caracas Game Jam 3**, jam anualmente promovida pela FATEC de Carapicuíba. Com a temática **retro**, solicitado pela jam, trata-se de game de shooter top-down, inspirado em jogos arcade e bullet well. Nele, o jogador controla um caubói obrigado a enfrentar bandidos perigosos. Disponível em: **https://cazalski.itch.io/ballwest**
  
   Nesse projeto, atuel como um dos programadores, desenvolvendo as mecânicas básicas da movimentação e disparo do personagem, além da mecânica de upgrades. Em BallWest, o jogador deve tentar derrotar o oponente, sendo direcionado para uma tela de aprimoramento ao fracassar. Nela, podendo aperfeiçoar os atributos do protagonista, aumentando sua vida, dano ou quantidade de munição, a fim de tornar-se mais apto para derrotar o inimigo.
   
