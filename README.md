@@ -1,6 +1,6 @@
 # Murillo Fagundes
 
-Recém formado em **Jogos Digitais** pela **Faculdade de Tecnologia de Carapicuíba**, busco oportunidades, crescimento e aprendizados na área do desenvolvimento de jogos e softwares. Proativo, comunicativo e dedicado, com 3 anos de experiência, também formado em Técnico em Administração e em Mecatrônica.
+Estudante de **Análise e Desenvolvimento de Sistemas** pela **Faculdade de Tecnologia de Carapicuíba**, formado em **Jogos Digitais**. Busco oportunidades de crescimento e aprendizado nas áreas de desenvolvimento de jogos e softwares. Proativo, comunicativo e dedicado.
 
 
 
@@ -12,14 +12,15 @@ Recém formado em **Jogos Digitais** pela **Faculdade de Tecnologia de Carapicu�
 
 
 ## Formação
-- Superior Tecnológico na FATEC de Carapicuíba (Conclusão 2022)
+- Superior Tecnológico em Análise e Desenvolvimento de Sistemas na FATEC de Carapicuíba (Cursando)
+- Superior Tecnológico em Jogos Digitais pela FATEC de Carapicuíba (Conclusão 2022)
 - Técnico em Administração (Conclusão 2020)
 - Técnico em Mecatrônica (Conclusão 2018)
 
 
 
 ## Conhecimentos e Habilidades
-- Experiência com metodólogias ágeis SCRUM
+- Experiência com metodólogias ágeis: SCRUM
 - Banco de dados SQLite e SQL
 - Pacote Office intermediário
 - Sistemas operacionais: Windows intermediário e Linux básico
@@ -174,7 +175,15 @@ Recém formado em **Jogos Digitais** pela **Faculdade de Tecnologia de Carapicu�
 - Aprofundado documentação de Engenharia de Software
 
 
-### BallWest (2023)
+
+### Fallen Realm (2022 - Desenvolvimento)
+
+ **Fallen Realm** será um rogue-like 2D de ação mobile. O projeto fora inspirado em obras como os contos de H.P. Lovecraft, a franquia Souls e Soul Knight. Atualmente, encontra-se em desenvolvimento.
+ A história do jogo narra os infortúnios ocorridos com o Caça-Magia, um feiticeiro com amnésia que desperta perdido no antigo "Reino Caído", uma civilização medievalesca outrora prospera, mas que caiu na miséria e loucura. Agora o protagonista deve encontrar e derrotar os "Lordes", governantes anteriores, a fim de encerrar a maldição que acomete o lugar e, agora, o próprio Caça-Magia.
+
+
+
+### BallWest (2023 - Em Desenvolvimento)
 
  ![BallWest](https://raw.githubusercontent.com/MurilloFagundesAS/MurilloFagundesAS.github.io/main/Imagens/BallWest.png "BallWest (2023) - Apresentação")
  ![BallWestHistoria](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/BallWest%202%20-%20Hist%C3%B3ria.png "BallWest (2023) - História")
@@ -183,25 +192,17 @@ Recém formado em **Jogos Digitais** pela **Faculdade de Tecnologia de Carapicu�
   ![BallWestGameplay](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/BallWest%205%20-%20Jogo.png "BallWest (2023) - Gameplay")
    ![BallWestGameOver](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/BallWest%206%20-%20Upgrades.png "BallWest (2023) - Game Over e Upgrades")
 
- **BallWest** é um jogo 2D desenvolvido para a **Caracas Game Jam 3**, jam anualmente promovida pela FATEC de Carapicuíba. Com a temática **retro**, solicitado pela jam, trata-se de game de shooter top-down, inspirado em jogos arcade e bullet well. Nele, o jogador controla um caubói obrigado a enfrentar bandidos perigosos. Disponível em: **https://cazalski.itch.io/ballwest**
- 
-  Nesse projeto, atuel como um dos programadores, desenvolvendo as mecânicas básicas da movimentação e disparo do personagem, além da mecânica de upgrades. Em BallWest, o jogador deve tentar derrotar o oponente, sendo direcionado para uma tela de aprimoramento ao fracassar. Nela, podendo aperfeiçoar os atributos do protagonista, aumentando sua vida, dano ou quantidade de munição, a fim de tornar-se mais apto para derrotar o inimigo.
+ **BallWest** é um jogo 2D shooter top-down com temática **retro**, inspirado em jogos arcade e bullet hell, em desenvolvimento pela empresa **Astrum Pixel Games**. Originado durante a **Caracas Game Jam 3**, JAM anualmente promovida pela FATEC de Carapicuíba. Nele, o jogador controla um caubói que dese salvar sua cidade de um grupo de bandidos perigosos. **Nesse projeto, atuo como roteirista e um dos programadores**. Demo Disponível em: **https://cazalski.itch.io/ballwest**
   
   Baseada nos clássicos filmes **western** protagonizados por **Clint Eastwood**, o jogo conta a história de **Billy "The Ball" Jones**, um caubói que nunca desejou se tornar um fora da lei. Entretanto, preso por "pensar fora da caixa" numa sociedade alienada, acabou tendo uma bomba implantada em seu peito. Agora, Billy se vê obrigado pelas autoridades a caçar os mais perigosos e temidos criminosos da região, em troca de sua liberdade. Tudo isso antes que seu tempo de vida termine, o explodindo junto de tudo ao seu redor.
-  
   
    **Grupo**
 - Matheus Garbin,arte e game desiger
 - Matheus Mourão, programação
-- Murillo Fagundes, programação
+- Murillo Fagundes, programação e roteiro
 
 **Aprendizados Adquiridos e Aplicado ao Projeto**
 - Aprofundado Linguagem C# e desenvolvimento com Unity
-- Aperfeiçoamento de Sistemas de Salvamento com JSON (não implementado)
+- Aperfeiçoamento de Sistemas de Salvamento com JSON
+- Aperfeiçoamento de desenvolvimento mobile (em andamento)
 - Aprofundado desenvolvimento de shooter top-down 2D
-
-
-### Fallen Realm (2022 - Desenvolvimento)
-
- **Fallen Realm** será um rogue-like 2D de ação mobile. O projeto fora inspirado em obras como os contos de H.P. Lovecraft, a franquia Souls e Soul Knight. Atualmente, encontra-se em desenvolvimento.
- A história do jogo narra os infortúnios ocorridos com o Caça-Magia, um feiticeiro com amnésia que desperta perdido no antigo "Reino Caído", uma civilização medievalesca outrora prospera, mas que caiu na miséria e loucura. Agora o protagonista deve encontrar e derrotar os "Lordes", governantes anteriores, a fim de encerrar a maldição que acomete o lugar e, agora, o próprio Caça-Magia.
